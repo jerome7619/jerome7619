@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jerome7619
-- 👀 I’m interested in contributing to Limesurvey
-- 🌱 I’m currently learning Python on spare time
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in the Power Platform
+- 🌱 I’m currently learning PowerBi
+- 💞️ I’m looking to show how to use the Power Platfom to automate office tasks yourself
 - 📫 How to reach me : jerome.rancourt@gmail.com
 
 <!---
